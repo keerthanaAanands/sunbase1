@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chat {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.message {
+    background-color: #f0f0f0;
+}
+
+.sent {
+    background-color: #e6f7ff;
+    text-align: right;
+}
